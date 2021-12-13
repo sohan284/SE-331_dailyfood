@@ -24,7 +24,7 @@ $sql="SELECT * FROM `discount`";
 <!-- Navbar Start -->
 <div class="navBar">
 
-    <span class="logo">dailyFood</span>
+    <span class="logo">Eshop</span>
 
     <ul class="navList" style="margin-bottom: 0px !important;">
         <li><a class="active" href="#">Home</a></li>
